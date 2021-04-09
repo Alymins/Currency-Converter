@@ -1,0 +1,15 @@
+type: code
+files:
+- name: main.py
+  visible: true
+  text: '# write your code here'
+  learner_created: false
+- name: starts.txt
+  visible: true
+  learner_created: true
+feedback_link: https://hyperskill.org/learn/step/8696#comment
+status: Solved
+feedback:
+  message: <html>Correct solution</html>
+  time: Wed, 07 Apr 2021 19:39:40 UTC
+record: -1
